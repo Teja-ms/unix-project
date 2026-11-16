@@ -1,0 +1,6 @@
+2026-11-16T10:00:00Z INFO api-server started port=8080
+2026-11-16T10:01:00Z INFO request_id=ab12 route=/login status=200
+2026-11-16T10:02:00Z WARN request_id=ab13 database latency_ms=850
+2026-11-16T10:03:00Z ERROR request_id=ab14 database connection timeout
+2026-11-16T10:04:00Z DEBUG cache hit key=session-1
+2026-11-16T10:05:00Z ERROR request_id=ab15 payment provider unavailable
