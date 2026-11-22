@@ -1,0 +1,6 @@
+metric,value
+http_requests,9
+http_error_responses,6
+unique_client_ips,3
+ssh_failed_attempts,4
+suspicious_http_requests,3
